@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gupyScraper", "gupyScraper\gupyScraper.csproj", "{EEF99511-23C7-4580-B9BB-42FF74E84C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF99511-23C7-4580-B9BB-42FF74E84C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF99511-23C7-4580-B9BB-42FF74E84C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF99511-23C7-4580-B9BB-42FF74E84C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF99511-23C7-4580-B9BB-42FF74E84C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E57F4DE-A641-4547-AF8A-A2B6CB6B1E34}
+	EndGlobalSection
+EndGlobal
